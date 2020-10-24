@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+}
+
+/* Other Classes for Page Styling */
+#index-body {
+  background-image: url('img/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
